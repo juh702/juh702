@@ -2,10 +2,12 @@
 
 meu nome é Julia Alves
 
--estou estudando na Alura
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
 
--estou me desenvolvendo na linguagem JavaScript
+### Você pode entar em contato comigo 📫
 
--utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
+alves.godoi@escola.pr.gov.br
 
-### Você entar em contato comigo 📫
+@juh702
