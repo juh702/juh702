@@ -11,3 +11,5 @@ meu nome é Julia Alves
 alves.godoi@escola.pr.gov.br
 
 @juh702
+
+![image](https://github.com/user-attachments/assets/4cb3dfdd-fcf4-42c4-93f9-1f9e612c1a77)
